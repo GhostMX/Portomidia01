@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 32fa0a9cd4bf0724a8a83e352a385caf
+timeCreated: 1490520578
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spritesheet_Idle-cangaceiro_0
+    21300002: Spritesheet_Idle-cangaceiro_1
+    21300004: Spritesheet_Idle-cangaceiro_2
+    21300006: Spritesheet_Idle-cangaceiro_3
+    21300008: Spritesheet_Idle-cangaceiro_4
+    21300010: Spritesheet_Idle-cangaceiro_5
+    21300012: Spritesheet_Idle-cangaceiro_6
+    21300014: Spritesheet_Idle-cangaceiro_7
+    21300016: Spritesheet_Idle-cangaceiro_8
+    21300018: Spritesheet_Idle-cangaceiro_9
+    21300020: Spritesheet_Idle-cangaceiro_10
+    21300022: Spritesheet_Idle-cangaceiro_11
+    21300024: Spritesheet_Idle-cangaceiro_12
+    21300026: Spritesheet_Idle-cangaceiro_13
+    21300028: Spritesheet_Idle-cangaceiro_14
+    21300030: Spritesheet_Idle-cangaceiro_15
+    21300032: Spritesheet_Idle-cangaceiro_16
+    21300034: Spritesheet_Idle-cangaceiro_17
+    21300036: Spritesheet_Idle-cangaceiro_18
+    21300038: Spritesheet_Idle-cangaceiro_19
+    21300040: Spritesheet_Idle-cangaceiro_20
+    21300042: Spritesheet_Idle-cangaceiro_21
+    21300044: Spritesheet_Idle-cangaceiro_22
+    21300046: Spritesheet_Idle-cangaceiro_23
+    21300048: Spritesheet_Idle-cangaceiro_24
+    21300050: Spritesheet_Idle-cangaceiro_25
+    21300052: Spritesheet_Idle-cangaceiro_26
+    21300054: Spritesheet_Idle-cangaceiro_27
+    21300056: Spritesheet_Idle-cangaceiro_28
+    21300058: Spritesheet_Idle-cangaceiro_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 904
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 904
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 904
+        width: 103
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 904
+        width: 104
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 776
+        width: 105
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 776
+        width: 105
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 776
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 776
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 648
+        width: 109
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 648
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 648
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 648
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 520
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 520
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 520
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_15
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 520
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 392
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 392
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 392
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 392
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 264
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 264
+        width: 109
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 264
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_23
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 264
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 136
+        width: 105
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 136
+        width: 104
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 136
+        width: 103
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 136
+        width: 103
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 8
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Idle-cangaceiro_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 8
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

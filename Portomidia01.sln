@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FD7A0148-430E-6089-747B-1C9DFEDD904F}") = "Portomidia01", "Assembly-CSharp.csproj", "{A2C4545F-DAAF-6FA1-3139-02EC0EDB7804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C4545F-DAAF-6FA1-3139-02EC0EDB7804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C4545F-DAAF-6FA1-3139-02EC0EDB7804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C4545F-DAAF-6FA1-3139-02EC0EDB7804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C4545F-DAAF-6FA1-3139-02EC0EDB7804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
